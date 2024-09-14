@@ -1,7 +1,7 @@
 --[[
 	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
 ]]
-_G.HeadSize = 15
+_G.HeadSize = 10
 _G.Disabled = true
 
 game:GetService('RunService').RenderStepped:connect(function()
